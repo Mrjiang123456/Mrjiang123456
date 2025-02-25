@@ -1,4 +1,4 @@
-## 关于我
+# 关于我
 
 * 👋 你好，我是Mrjiang123456
 * 👀 我对数据科学、机器学习和人工智能等领域非常感兴趣。
@@ -7,13 +7,13 @@
 * 📧 你可以通过以下方式联系到我：2983511141@qq.com。
 * 😉 Happy to communicate with you ！！！
 
-## 学习路线
+# 学习路线
 
 - 🧑‍💻 我正在学习：离线数仓、实时数仓、数据湖、云计算。
 - 💻 我的编程技能：Java、Python、SQL、Linux、Hadoop、Spark、Hive、Kafka、Flink、Datax、Dolphinschedule、Redis、ClickHouse、Doris and so on.
 - 📃 我的项目经验：离线数据仓库、分布式网盘、电商管理系统等…
 
-## 技能和专长
+# 技能和专长
 
 - 数据建模和优化：具备数据仓库分层建模经验（ODS、DWD、DWS、ADS），熟悉维度建模与星型/雪花模型设计。擅长Hive性能调优（分区/分桶、压缩、执行计划优化），优化Spark任务资源分配与并行度，提升数据处理效率。
 - 云计算与分布式架构：熟悉阿里云MaxCompute，部署过Hadoop/Spark集群，支持PB级数据存储与计算。掌握分布式系统原理，包括Zookeeper协调服务、Redis缓存机制及高可用架构设计。
