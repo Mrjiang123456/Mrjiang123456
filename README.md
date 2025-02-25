@@ -1,16 +1,23 @@
-## Hi there 👋
+## 关于我
 
-<!--
-**Mrjiang123456/Mrjiang123456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 👋 你好，我是Mrjiang123456
+* 👀 我对数据科学、机器学习和人工智能等领域非常感兴趣。
+* 😸 我目前正在学习和提高我的数据科学技能，包括数据处理、数据分析、数据挖掘和数据可视化等方面。
+* 💖 我希望能够与其他数据科学家和相关领域的专业人士共同合作，共同探讨交流和解决有趣的问题。
+* 📧 你可以通过以下方式联系到我：2983511141@qq.com。
+* 😉 Happy to communicate with you ！！！
 
-Here are some ideas to get you started:
+## 学习路线
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧑‍💻 我正在学习：离线数仓、实时数仓、数据湖、云计算。
+- 💻 我的编程技能：Java、Python、SQL、Linux、Hadoop、Spark、Hive、Kafka、Flink、Datax、Dolphinschedule、Redis、ClickHouse、Doris and so on.
+- 📃 我的项目经验：离线数据仓库、分布式网盘、电商管理系统等…
+
+## 技能和专长
+
+- 数据建模和优化：具备数据仓库分层建模经验（ODS、DWD、DWS、ADS），熟悉维度建模与星型/雪花模型设计。擅长Hive性能调优（分区/分桶、压缩、执行计划优化），优化Spark任务资源分配与并行度，提升数据处理效率。
+- 云计算与分布式架构：熟悉阿里云MaxCompute，部署过Hadoop/Spark集群，支持PB级数据存储与计算。掌握分布式系统原理，包括Zookeeper协调服务、Redis缓存机制及高可用架构设计。
+- 数据可视化与BI工具：熟练使用Power BI、Superset生成多维分析报表，结合Echarts开发动态可视化大屏，支持业务决策。
+- 软技能：快速学习新技术（如新版本Flink/Spark特性），具备跨团队沟通能力（与算法、运维协作），擅长技术文档编写与需求拆解。
+- 认证与成果：持有阿里云ACA大数据认证。
+
